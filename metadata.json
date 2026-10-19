@@ -1,0 +1,6 @@
+{
+  "name": "An Toàn Thông Tin: Rà Quét URL & Phân Tích Tệp Tin Độc Hại",
+  "description": "Nền tảng học tập tương tác, mô phỏng rà quét URL, phân tích mã độc sandbox, phòng thí nghiệm mã băm và sổ tay tác chiến dành cho học viên.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
